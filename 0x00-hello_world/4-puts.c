@@ -1,15 +1,14 @@
 /**
 
- * main - print hard coded string using puts
- *
- *  * ----
- *
- *   * no parameters
- *
- *    * Return: Zero value
- *
- *
- *       */
+    * main - print hard coded string using puts
+    *
+    *  * ----
+    *
+    *   * no parameters
+    *
+    *    * Return: Zero value
+    *
+    *       */
 
 
 
@@ -23,40 +22,18 @@ int main(void)
 
 {
 
-	char vaca[52];
+		char vaca[52];
 
 
 
-	strcpy(vaca, "\"Programming is like building a multilingual puzzle");
+			strcpy(vaca, "\"Programming is like building a multilingual puzzle");
 
 
 
-	puts(vaca);
+				puts(vaca);
 
 
 
-	return (0);
-
-}
-
-
-
-/**
- *
- *  *  main - Entry point
- *
- *   *  Description: prints "\"Programming is like building a multilingual puzzle"
- *
- *    *  Return: 0
- *
- *     */
-
-int main(void)
-
-{
-
-		puts("\"Programming is like building a multilingual puzzle");
-
-			return (0);
+					return (0);
 
 }
