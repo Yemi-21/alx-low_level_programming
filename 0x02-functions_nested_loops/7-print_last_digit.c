@@ -4,14 +4,14 @@
  * @n: digit to find the last place of.
  * Return: The last digit.
  */
-int print_last_digit(int res)
+int print_last_digit(int nld)
 {
-int n;
-n = (res % 10);
-if (n < 0)
+int pld;
+pld = (nld % 10);
+if (pld < 0)
 {
-n = (-1 * n);
+pld = (-1 * pld);
 }
-_putchar(n + '0');
-return (n);
+_putchar(pld + '0');
+return (pld);
 }
