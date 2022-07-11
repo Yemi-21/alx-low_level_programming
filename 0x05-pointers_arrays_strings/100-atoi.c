@@ -33,9 +33,9 @@ length = j - i;
 l = i;
 while (length >= 1)
 {
-num = num * 10 + (*(s + l) - '0');
+num = num * 10 + (*(s + l) -'0');
 l++;
 length--;
 }
-return (num * aux);
+return (num *aux);
 }
