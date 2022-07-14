@@ -1,56 +1,84 @@
 #include "main.h"
 #include <stdio.h>
+
 /**
- * infinite_add - add 2 strings.
- * @n1: string1.
- * @n2: string2.
- * @r: buffer
- * @size_r: buffer size
- * Return: String with all letters in ROT13 base.
- */
-char *infinite_add(char *n1, char *n2, char *r, int size_r)
+ *
+ *  * print_buffer - prints string buffer
+ *
+ *   * @b: the buffer
+ *
+ *    * @size: size of buffer to print
+ *
+ *     *
+ *
+ *      * Return: void
+ *
+ *       */
+
+void print_buffer(char *b, int size)
+
 {
-int a_len = 0, b_len = 0, carry = 0, a, b, sum, biggest;
-while (n1[a_len] != '\0')
-a_len++;
-while (n2[b_len] != '\0')
-b_len++;
-if (a_len > b_len)
-biggest = a_len;
-else
-biggest = b_len;
-if ((biggest + 1) >= size_r)
-return (0);
-r[biggest + 1] = '\0';
-while (biggest >= 0)
-{
-a = (n1[a_len - 1] - '0');
-b = (n1[b_len - 1] - '0');
-if (a_len > 0 && b_len > 0)
-sum = a + b + carry;
-else if (a_len < 0 && b_len > 0)
-sum = b + carry;
-else if (a_len > 0 && b_len < 0)
-sum = a + carry;
-else
-sum = carry;
-if (sum >)
-{
-carry = sum / 10;
-sum = (sum % 10) + '0';
-}
-else
-{
-carry = 0;
-sum = sum + '0';
-}
-r[biggest] = sum;
-a_len--;
-b_len--;
-biggest--;
-}
-if (*(r) != 0)
-return (r);
-else
-return (r + 1);
+
+		int o = 0, i, j;
+
+
+
+			if (size <= 0)
+
+					{
+
+								printf("\n");
+
+										return;
+
+											}
+
+				while (o < size)
+
+						{
+
+									j = size - o < 10 ? size - o : 10;
+
+											printf("%08x: ", o);
+
+													for (i = 0; i < 10; i++)
+
+																{
+
+																				if (i < j)
+
+																									printf("%02x", *(b + o + i));
+
+																							else
+
+																												printf("  ");
+
+																										if (i % 2)
+
+																															printf(" ");
+
+																												}
+
+															for (i = 0; i < j; i++)
+
+																		{
+
+																						int c = *(b + o + i);
+
+
+
+																									if (c < 32 || c > 132)
+
+																														c = '.';
+
+																												printf("%c", c);
+
+																														}
+
+																	printf("\n");
+
+																			o += 10;
+
+																				}
+
 }
