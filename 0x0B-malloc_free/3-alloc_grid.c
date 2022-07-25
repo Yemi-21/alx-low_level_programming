@@ -13,7 +13,7 @@ int i, j;
 int **matrix;
 if (width <= 0 || height <= 0)
 return (NULL);
-matrix = (int **) malloc(height *sizeof(int *));
+matrix = (int **) malloc(height * sizeof(int *));
 if (matrix == NULL)
 {
 free(matrix);
@@ -21,7 +21,7 @@ return (NULL);
 }
 for (i = 0; i < height; i++)
 {
-*(matrix + i) = (int *) malloc(width *sizeof(int));
+*(matrix + i) = (int *) malloc(width * sizeof(int));
 if (*(matrix + i) == NULL)
 {
 for (j = 0; j < i; j++)
