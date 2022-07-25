@@ -23,7 +23,7 @@ s1Size++;
 while (*(s2 + s2Size))
 s2Size++;
 s2Size++; /*add 1 space to print null*/
-conStr = malloc((s1Size + s2Size) * sizeof(char));
+conStr = malloc((s1Size + s2Size) *sizeof(char));
 if (conStr == NULL)
 return (NULL);
 for (i = 0; i < s1Size; i++)
