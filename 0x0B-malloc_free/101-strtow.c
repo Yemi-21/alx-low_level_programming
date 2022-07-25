@@ -83,7 +83,7 @@ return (NULL);
 }
 for (j = 0; j < numChars; j++)
 {
-*(*(words + i) + j) = *str;
+*(*(words + i) +j) = *str;
 str++; }
 *(*(words + i) + j) = '\0';
 i++;
