@@ -14,7 +14,7 @@ int i, length;
 if (min > max)
 return (NULL);
 length = max - min + 1;
-newArray = malloc(length * sizeof(int));
+newArray = malloc(length *sizeof(int));
 if (newArray == NULL)
 return (NULL);
 for (i = 0; i < length; i++)
