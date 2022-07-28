@@ -43,10 +43,10 @@ unsigned int i;
 char *newArray;
 if (nmemb == 0 || size == 0)
 return (NULL);
-newArray = malloc(nmemb * size);
+newArray = malloc(nmemb *size);
 if (newArray == NULL)
 return (NULL);
-for (i = 0; i < (nmemb * size); i++)
+for (i = 0; i < (nmemb *size); i++)
 *(newArray + i) = 0;
 return (newArray);
 }
@@ -70,8 +70,8 @@ len_s1++;
 while (*(*(argv + 2) + len_s2))
 len_s2++;
 len = len_s1 + len_s2 + 1;
-a = (int *) malloc(len_s1 * sizeof(int));
-b = (int *) malloc(len_s2 * sizeof(int));
+a = (int *) malloc(len_s1 *sizeof(int));
+b = (int *) malloc(len_s2 *sizeof(int));
 ans = _calloc(len, sizeof(int));
 if (a == NULL || b == NULL || ans == NULL)
 Error();
