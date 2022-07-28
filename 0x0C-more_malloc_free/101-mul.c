@@ -65,9 +65,9 @@ if (argc != 3 || allDigits(argv) != 1)
 Error();
 if (*s1 == '0' || *s2 == '0')
 _putchar('0');
-while (*(*(argv + 1) +len_s1))
+while (*(*(argv +1) + len_s1))
 len_s1++;
-while (*(*(argv + 2) +len_s2))
+while (*(*(argv +2) + len_s2))
 len_s2++;
 len = len_s1 + len_s2 + 1;
 a = (int *) malloc(len_s1 *sizeof(int));
