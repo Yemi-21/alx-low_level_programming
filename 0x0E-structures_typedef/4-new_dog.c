@@ -26,7 +26,7 @@ free(newDog);
 return (NULL);
 }
 for (i = 0; i < lName; i++)
-*(newDog->name + i) = *(name + i);
+*(newDog->name +i) = *(name +i);
 newDog->age = age;
 newDog->owner = malloc(lOwner *sizeof(char));
 if (newDog->owner == NULL)
@@ -36,6 +36,6 @@ free(newDog);
 return (NULL);
 }
 for (i = 0; i < lOwner; i++)
-*(newDog->owner + i) = *(owner + i);
+*(newDog->owner +i) = *(owner +i);
 return (newDog);
 }
