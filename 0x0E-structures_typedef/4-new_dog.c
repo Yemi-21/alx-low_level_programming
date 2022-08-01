@@ -15,9 +15,11 @@ int lName, lOwner, i;
 newDog = malloc(sizeof(struct dog));
 if (newDog == NULL)
 return (NULL);
-for (lName = 0; *(name + lName); lName++);
+for (lName = 0; *(name + lName); lName++)
+;
 lName++;
-for (lOwner = 0; *(owner + lOwner); lOwner++);
+for (lOwner = 0; *(owner + lOwner); lOwner++)
+;
 lOwner++;
 newDog->name = malloc(lName *sizeof(char));
 if (newDog->name == NULL)
