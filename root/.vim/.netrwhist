@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/root'
+let g:netrw_dirhist_3='/root/alx-system_engineering-devops'
+let g:netrw_dirhist_2='/root/alx-system_engineering-devops/0x02-shell_redirections'
+let g:netrw_dirhist_1='/root/alx-system_engineering-devops/0x02-shell_redirections/1-confused_smiley'
