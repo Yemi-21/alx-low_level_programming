@@ -55,230 +55,492 @@ $
 |3,1,36,0,1,0,1659012323,"i"
 
 # File marks:
-'0  1  0  ~/printf/printf_bin.c
-|4,48,1,0,1660032202,"~/printf/printf_bin.c"
-'1  1  0  ~/printf/printf_string.c
-|4,49,1,0,1660031794,"~/printf/printf_string.c"
-'2  1  0  ~/printf/printf_char.c
-|4,50,1,0,1660031563,"~/printf/printf_char.c"
-'3  1  0  ~/printf/printf_int.c
-|4,51,1,0,1660031340,"~/printf/printf_int.c"
-'4  1  0  ~/printf/printf_37.c
-|4,52,1,0,1659961287,"~/printf/printf_37.c"
-'5  1  0  ~/printf/_putchar.c
-|4,53,1,0,1659961103,"~/printf/_putchar.c"
-'6  1  0  ~/printf/main.h
-|4,54,1,0,1659960715,"~/printf/main.h"
-'7  1  0  ~/printf/_printf.c
-|4,55,1,0,1659960549,"~/printf/_printf.c"
-'8  1  0  ~/printf/man_3_printf
-|4,56,1,0,1659960053,"~/printf/man_3_printf"
-'9  1  0  ~/printf/Write
-|4,57,1,0,1659959842,"~/printf/Write"
+'0  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
+|4,48,1,0,1660224798,"~/alx-low_level_programming/0x12-singly_linked_lists/lists.h"
+'1  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,49,1,0,1660224563,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+'2  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+|4,50,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
+'3  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,51,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+'4  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,52,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+'5  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,53,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+'6  1  0  ~/printf/printf_bin.c
+|4,54,1,0,1660032202,"~/printf/printf_bin.c"
+'7  1  0  ~/printf/printf_string.c
+|4,55,1,0,1660031794,"~/printf/printf_string.c"
+'8  1  0  ~/printf/printf_char.c
+|4,56,1,0,1660031563,"~/printf/printf_char.c"
+'9  1  0  ~/printf/printf_int.c
+|4,57,1,0,1660031340,"~/printf/printf_int.c"
 
 # Jumplist (newest first):
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
+|4,39,1,0,1660224798,"~/alx-low_level_programming/0x12-singly_linked_lists/lists.h"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660224563,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+|4,39,1,0,1660224563,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
+-'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
 -'  1  0  ~/printf/printf_bin.c
 |4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_string.c
-|4,39,1,0,1660031794,"~/printf/printf_string.c"
--'  1  0  ~/printf/printf_string.c
-|4,39,1,0,1660031794,"~/printf/printf_string.c"
--'  1  0  ~/printf/printf_char.c
-|4,39,1,0,1660031563,"~/printf/printf_char.c"
--'  1  0  ~/printf/printf_char.c
-|4,39,1,0,1660031563,"~/printf/printf_char.c"
--'  1  0  ~/printf/printf_char.c
-|4,39,1,0,1660031563,"~/printf/printf_char.c"
--'  1  0  ~/printf/printf_char.c
-|4,39,1,0,1660031563,"~/printf/printf_char.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_int.c
-|4,39,1,0,1660031340,"~/printf/printf_int.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/printf_37.c
-|4,39,1,0,1659961287,"~/printf/printf_37.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/_putchar.c
-|4,39,1,0,1659961103,"~/printf/_putchar.c"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
--'  1  0  ~/printf/main.h
-|4,39,1,0,1659960715,"~/printf/main.h"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/printf/printf_bin.c
+|4,39,1,0,1660032202,"~/printf/printf_bin.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
+	*	1660224796	0
+	"	1	0
+	^	1	0
+	.	23	0
+	+	22	5
+	+	1	1
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+	*	1660224562	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	19	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	20	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+	*	1660224336	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	83	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	9
+	+	10	1
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	10
+	+	22	0
+	+	23	0
+	+	21	0
+	+	20	0
+	+	22	0
+	+	24	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	40	0
+	+	41	0
+	+	42	1
+	+	43	11
+	+	44	1
+	+	46	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	52	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	58	2
+	+	59	1
+	+	61	0
+	+	60	0
+	+	62	0
+	+	63	0
+	+	64	0
+	+	65	0
+	+	66	0
+	+	67	0
+	+	68	0
+	+	69	0
+	+	70	0
+	+	71	0
+	+	72	0
+	+	73	0
+	+	74	0
+	+	75	0
+	+	76	0
+	+	77	0
+	+	78	14
+	+	79	0
+	+	80	0
+	+	81	0
+	+	82	0
+	+	84	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+	*	1660223078	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	60	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	18	0
+	+	19	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	38	0
+	+	39	1
+	+	40	1
+	+	46	0
+	+	45	0
+	+	40	0
+	+	40	3
+	+	40	2
+	+	40	1
+	+	43	3
+	+	43	2
+	+	43	1
+	+	42	1
+	+	43	1
+	+	41	0
+	+	42	0
+	+	40	2
+	+	46	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	1
+	+	52	0
+	+	53	0
+	+	54	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	58	0
+	+	59	0
+	+	61	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+	*	1660221733	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	17	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	6	0
+	+	7	1
+	+	8	1
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	18	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+	*	1660220990	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	26	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	2
+	+	7	1
+	+	8	1
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	36
+	+	16	11
+	+	17	1
+	+	18	4
+	+	19	1
+	+	20	19
+	+	21	28
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	27	0
+	+	1	0
 
 > ~/printf/printf_bin.c
 	*	1660032201	0
@@ -3124,168 +3386,3 @@ $
 	^	1	6
 	.	1	5
 	+	1	5
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/100-set_string.c
-	*	1658136604	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	11	0
-	+	12	0
-	+	10	0
-	+	11	0
-	+	10	0
-	+	9	0
-	+	7	0
-	+	8	0
-	+	1	13
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/8-print_diagsums.c
-	*	1658136349	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	16	35
-	+	3	0
-	+	2	12
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	10	0
-	+	11	0
-	+	12	49
-	+	13	23
-	+	14	63
-	+	15	23
-	+	16	35
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/7-print_chessboard.c
-	*	1658136035	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	17	1
-	+	1	13
-	+	3	0
-	+	4	1
-	+	5	1
-	+	6	1
-	+	8	0
-	+	9	0
-	+	10	23
-	+	11	1
-	+	12	23
-	+	13	1
-	+	14	24
-	+	15	1
-	+	16	15
-	+	17	1
-	+	18	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/5-strstr.c
-	*	1658135689	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	23	14
-	+	3	0
-	+	2	12
-	+	4	0
-	+	5	0
-	+	4	0
-	+	6	0
-	+	7	1
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	1
-	+	13	21
-	+	14	19
-	+	15	36
-	+	16	1
-	+	17	0
-	+	18	6
-	+	19	1
-	+	20	17
-	+	21	18
-	+	22	1
-	+	23	14
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/4-strpbrk.c
-	*	1658135365	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	20	14
-	+	3	0
-	+	2	12
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	1
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	1
-	+	16	22
-	+	17	15
-	+	18	0
-	+	19	1
-	+	20	14
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/3-strspn.c
-	*	1658135332	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	1
-	+	1	13
-	+	1	1
-	+	1	2
-	+	1	23
-	+	1	16
-	+	1	2
-	+	1	1
-	+	2	0
-	+	1	1
-	+	1	23
-	+	26	15
-	+	1	13
-	+	3	0
-	+	4	1
-	+	5	1
-	+	6	1
-	+	7	1
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	1
-	+	14	0
-	+	15	35
-	+	16	1
-	+	17	0
-	+	18	1
-	+	19	8
-	+	20	0
-	+	21	1
-	+	22	1
-	+	23	15
-	+	24	15
-	+	25	1
-	+	26	15
-	+	1	0
