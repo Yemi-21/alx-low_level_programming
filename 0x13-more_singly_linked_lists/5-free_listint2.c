@@ -1,17 +1,31 @@
+#include <stdlib.h>
 #include "lists.h"
 /**
- * free_listint2 - Free listint_t.
- * @head: data type pointer the head/next node
- * Return: 0 elements all free
+ * free_listint - free a struct linked list
+ * @head: first element
+ * Return: frees a list_t list
+ */
+void free_listint(listint_t *head)
+{
+if (head == NULL)
+{
+return;
+}
+free_listint(head->next);
+free(head);
+}
+/**
+ * free_listint2 - free a struct linked list
+ * @head: first element
  */
 void free_listint2(listint_t **head)
 {
+listint_t *new;
 if (head == NULL)
-return;
-while (*head)
 {
-free(*head);
-*head = (*head)->next;
+return;
 }
-head = NULL;
+new = *head;
+*head = NULL;
+free_listint(new);
 }
