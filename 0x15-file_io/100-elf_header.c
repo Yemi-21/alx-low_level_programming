@@ -179,9 +179,9 @@ char *type_table[5] = {
 unsigned int type;
 printf("  %-34s ", "Type:");
 if (big_endian)
-type = 0x100 * buffer[16] + buffer[17];
+type = 0x100 *buffer[16] + buffer[17];
 else
-type = 0x100 * buffer[17] + buffer[16];
+type = 0x100 *buffer[17] + buffer[16];
 if (type < 5)
 printf("%s\n", type_table[type]);
 else if (type >= ET_LOOS && type <= ET_HIOS)
