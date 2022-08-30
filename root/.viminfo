@@ -52,241 +52,892 @@ $
 |3,0,3,1,1,0,1655902708,"pwd"
 ""-	CHAR	0
 	i
-|3,1,36,0,1,0,1659012323,"i"
+|3,1,36,0,1,0,1661169784,"i"
 
 # File marks:
-'0  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
-|4,48,1,0,1660224798,"~/alx-low_level_programming/0x12-singly_linked_lists/lists.h"
-'1  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
-|4,49,1,0,1660224563,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
-'2  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-|4,50,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
-'3  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,51,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
-'4  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,52,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
-'5  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,53,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
-'6  1  0  ~/printf/printf_bin.c
-|4,54,1,0,1660032202,"~/printf/printf_bin.c"
-'7  1  0  ~/printf/printf_string.c
-|4,55,1,0,1660031794,"~/printf/printf_string.c"
-'8  1  0  ~/printf/printf_char.c
-|4,56,1,0,1660031563,"~/printf/printf_char.c"
-'9  1  0  ~/printf/printf_int.c
-|4,57,1,0,1660031340,"~/printf/printf_int.c"
+'0  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+|4,48,1,0,1661169787,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
+'1  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,49,1,0,1661169539,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+'2  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+|4,50,1,0,1661161449,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
+'3  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,51,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+'4  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,52,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+'5  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,53,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+'6  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,54,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+'7  1  0  ~/alx-low_level_programming/0x15-file_io/0-read_textfile.c
+|4,55,1,0,1661158787,"~/alx-low_level_programming/0x15-file_io/0-read_textfile.c"
+'8  1  0  ~/alx-low_level_programming/0x14-bit_manipulation/main.h
+|4,56,1,0,1660815287,"~/alx-low_level_programming/0x14-bit_manipulation/main.h"
+'9  1  2  ~/alx-low_level_programming/0x14-bit_manipulation/101-password
+|4,57,1,2,1660815135,"~/alx-low_level_programming/0x14-bit_manipulation/101-password"
 
 # Jumplist (newest first):
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
-|4,39,1,0,1660224798,"~/alx-low_level_programming/0x12-singly_linked_lists/lists.h"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
-|4,39,1,0,1660224563,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
-|4,39,1,0,1660224563,"~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-|4,39,1,0,1660224338,"~/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-|4,39,1,0,1660223080,"~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
-|4,39,1,0,1660221734,"~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
-|4,39,1,0,1660220991,"~/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
--'  1  0  ~/printf/printf_bin.c
-|4,39,1,0,1660032202,"~/printf/printf_bin.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+|4,39,1,0,1661169787,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661169539,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661169539,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+|4,39,1,0,1661161449,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+|4,39,1,0,1661161449,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1661160250,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1661160144,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,39,1,0,1661159348,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,39,1,0,1661159100,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
-	*	1660224796	0
+> ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+	*	1661169786	0
 	"	1	0
 	^	1	0
-	.	23	0
-	+	22	5
+	.	1	0
+	+	165	0
+	+	166	0
+	+	167	0
+	+	168	0
+	+	169	0
+	+	171	0
+	+	172	0
+	+	173	0
+	+	174	0
+	+	175	0
+	+	176	27
+	+	177	18
+	+	178	2
+	+	179	18
+	+	180	28
+	+	181	15
+	+	182	39
+	+	183	4
+	+	184	39
+	+	185	13
+	+	186	33
+	+	187	44
+	+	188	37
+	+	189	48
+	+	190	44
+	+	191	4
+	+	192	32
+	+	193	0
+	+	195	0
+	+	196	0
+	+	197	1
+	+	198	1
+	+	199	1
+	+	201	0
+	+	202	0
+	+	203	45
+	+	204	15
+	+	205	1
+	+	206	34
+	+	207	25
+	+	208	29
+	+	209	26
+	+	210	35
+	+	211	1
+	+	212	4
+	+	213	1
+	+	214	23
+	+	215	36
+	+	216	15
+	+	217	29
+	+	218	26
+	+	219	35
+	+	220	1
+	+	221	0
+	+	223	0
+	+	224	0
+	+	225	1
+	+	226	1
+	+	227	1
+	+	228	1
+	+	227	1
+	+	228	1
+	+	230	0
+	+	231	0
+	+	232	0
+	+	233	0
+	+	234	0
+	+	235	0
+	+	236	0
+	+	237	61
+	+	238	9
+	+	239	1
+	+	240	29
+	+	241	13
+	+	242	1
+	+	243	58
+	+	244	9
+	+	245	1
+	+	246	0
+	+	247	18
+	+	248	29
+	+	249	30
+	+	250	20
+	+	251	18
+	+	252	20
+	+	253	29
+	+	254	24
+	+	255	41
+	+	256	40
+	+	257	11
+	+	258	11
+	+	259	0
+	+	1	0
+	+	184	14
+	+	182	14
+	+	1	0
+
+> ~/alx-low_level_programming/0x15-file_io/3-cp.c
+	*	1661169537	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	92	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	21	1
+	+	22	1
+	+	23	1
+	+	24	1
+	+	26	0
+	+	27	0
+	+	28	34
+	+	29	2
+	+	30	0
+	+	32	0
+	+	33	0
+	+	34	1
+	+	35	1
+	+	86	0
+	+	35	1
+	+	36	1
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	42	0
+	+	43	0
+	+	44	0
+	+	45	0
+	+	46	0
+	+	47	0
+	+	48	0
+	+	49	0
+	+	50	0
+	+	51	0
+	+	53	0
+	+	51	42
+	+	54	0
+	+	55	0
+	+	56	0
+	+	57	0
+	+	58	0
+	+	59	0
+	+	60	0
+	+	61	37
+	+	62	1
+	+	63	24
+	+	64	18
+	+	65	1
+	+	66	61
+	+	67	23
+	+	68	1
+	+	69	22
+	+	70	18
+	+	71	1
+	+	72	59
+	+	73	23
+	+	74	0
+	+	76	0
+	+	77	0
+	+	78	1
+	+	79	1
+	+	80	1
+	+	81	1
+	+	83	0
+	+	84	0
+	+	85	0
+	+	86	0
+	+	87	0
+	+	88	0
+	+	89	0
+	+	90	0
+	+	91	0
+	+	93	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x15-file_io/main.h
+	*	1661160248	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	18	5
+	+	1	11
+	+	3	0
+	+	2	10
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+	*	1661159346	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	35	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	2
+	+	33	0
+	+	34	0
+	+	36	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+	*	1661159099	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	35	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	1
+	+	18	1
+	+	19	1
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	25	2
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	36	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x15-file_io/0-read_textfile.c
+	*	1661158786	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	32	0
+	+	1	13
+	+	3	0
+	+	4	2
+	+	5	1
+	+	6	1
+	+	7	9
+	+	8	1
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	2
+	+	33	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/main.h
+	*	1660815285	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	17	5
+	+	1	11
+	+	3	0
+	+	2	10
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/101-password
+	*	1660815132	0
+	"	1	2
+	^	1	3
+	.	1	3
+	+	1	3
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/100-get_endianness.c
+	*	1660815021	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	13	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	14	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/5-flip_bits.c
+	*	1660814900	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	21	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	22	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
+	*	1660814708	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	16	0
+	+	1	13
+	+	2	0
+	+	2	1
+	+	3	1
+	+	4	1
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/3-set_bit.c
+	*	1660814537	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	14	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	15	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/2-get_bit.c
+	*	1660814394	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	13	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	14	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/1-print_binary.c
+	*	1660814235	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	24	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	23
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	19	0
+	+	20	0
+	+	20	11
+	+	21	0
+	+	22	0
+	+	23	0
+	+	25	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/0-binary_to_uint.c
+	*	1660813954	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	23	0
+	+	1	13
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	24	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/5-free_listint2.c
+	*	1660726183	0
+	"	1	0
+	^	1	0
+	.	1	0
 	+	1	1
+	+	1	2
+	+	1	1
+	+	2	0
+	+	1	1
+	+	31	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	1
+	+	7	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	1
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	32	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/4-free_listint.c
+	*	1660725811	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	2
+	+	1	1
+	+	2	0
+	+	1	1
+	+	15	0
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	8	0
+	+	9	0
+	+	16	0
+	+	1	16
+	+	1	0
+	+	14	12
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/3-add_nodeint_end.c
+	*	1660725575	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	2
+	+	1	1
+	+	27	20
+	+	3	0
+	+	4	1
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	0
+	+	27	20
+	+	28	0
+	+	1	0
+	+	27	20
+	+	10	0
+	+	8	25
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	30
+	+	24	26
+	+	25	26
+	+	26	1
+	+	27	18
+	+	28	0
+	+	1	0
+
+> ~/alx-low_level_programming/.git/COMMIT_EDITMSG
+	*	1660724449	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/lists.h
+	*	1660724420	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	34	5
 	+	3	0
 	+	4	0
 	+	5	0
@@ -295,16 +946,523 @@ $
 	+	8	0
 	+	9	0
 	+	10	0
-	+	12	0
-	+	13	0
-	+	14	0
+	+	11	1
+	+	12	1
+	+	13	1
 	+	15	0
+	+	16	0
 	+	17	0
 	+	19	0
 	+	20	0
 	+	21	0
 	+	22	0
 	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/103-find_loop.c
+	*	1660724233	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	28	20
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	1
+	+	21	36
+	+	22	1
+	+	23	21
+	+	24	1
+	+	25	32
+	+	26	1
+	+	27	1
+	+	28	20
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/102-free_listint_safe.c
+	*	1660724077	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	25	0
+	+	2	1
+	+	4	0
+	+	3	2
+	+	4	1
+	+	5	1
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	26	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/101-print_listint_safe.c
+	*	1660723692	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	34	17
+	+	3	0
+	+	4	1
+	+	5	1
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	10
+	+	21	23
+	+	22	1
+	+	23	17
+	+	24	1
+	+	25	48
+	+	26	17
+	+	27	1
+	+	28	16
+	+	29	8
+	+	30	1
+	+	31	10
+	+	32	9
+	+	33	1
+	+	34	17
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/100-reverse_listint.c
+	*	1660723530	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	20	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	21	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/10-delete_nodeint.c
+	*	1660723363	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	34	12
+	+	3	0
+	+	4	1
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	13
+	+	25	1
+	+	26	32
+	+	27	15
+	+	28	11
+	+	29	1
+	+	30	1
+	+	31	26
+	+	32	10
+	+	33	1
+	+	34	12
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/9-insert_nodeint.c
+	*	1660723147	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	42	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	1
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	41	0
+	+	43	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/8-sum_listint.c
+	*	1660554219	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	20	0
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	21	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/7-get_nodeint.c
+	*	1660553991	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	17	0
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	7	1
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	18	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/6-pop_listint.c
+	*	1660553697	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	18	0
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/2-add_nodeint.c
+	*	1660553243	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	2
+	+	1	1
+	+	1	2
+	+	1	1
+	+	2	0
+	+	1	1
+	+	18	0
+	+	3	0
+	+	4	0
+	+	5	1
+	+	6	1
+	+	7	1
+	+	8	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	19	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/1-listint_len.c
+	*	1660553113	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	2
+	+	1	1
+	+	2	0
+	+	1	1
+	+	14	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	15	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/0-print_listint.c
+	*	1660552925	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	2	0
+	+	1	1
+	+	17	0
+	+	3	0
+	+	4	1
+	+	5	1
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	18	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/101-hello_holberton.asm
+	*	1660252919	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	15	1
+	+	2	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/100-first.c
+	*	1660252801	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	10	0
+	+	3	0
+	+	4	0
+	+	5	1
+	+	7	0
+	+	8	0
+	+	9	0
+	+	11	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/lists.h
+	*	1660252186	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	26	5
+	+	1	1
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	21	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	1	0
+	+	26	50
+	+	6	0
+	+	7	0
+	+	6	0
+	+	5	0
+	+	1	0
+
+> ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+	*	1660251962	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	1
+	+	1	2
+	+	1	1
+	+	1	4
+	+	1	3
+	+	1	2
+	+	1	4
+	+	1	3
+	+	1	2
+	+	1	1
+	+	1	3
+	+	1	1
+	+	1	2
+	+	1	1
+	+	2	0
+	+	1	1
+	+	32	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	5	0
+	+	6	1
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	16	0
+	+	17	0
+	+	18	1
+	+	19	1
+	+	20	1
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	1
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	33	0
+	+	1	0
+
+> ~/alx-low_level_programming/.git/MERGE_MSG
+	*	1660226241	0
+	"	1	0
+
+> /.git/MERGE_MSG
+	*	1660226045	0
+	"	1	0
 
 > ~/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
 	*	1660224562	0
@@ -415,76 +1573,6 @@ $
 	+	81	0
 	+	82	0
 	+	84	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
-	*	1660223078	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	60	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	18	0
-	+	19	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	27	0
-	+	28	0
-	+	29	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	35	0
-	+	36	0
-	+	38	0
-	+	39	1
-	+	40	1
-	+	46	0
-	+	45	0
-	+	40	0
-	+	40	3
-	+	40	2
-	+	40	1
-	+	43	3
-	+	43	2
-	+	43	1
-	+	42	1
-	+	43	1
-	+	41	0
-	+	42	0
-	+	40	2
-	+	46	0
-	+	47	0
-	+	48	0
-	+	49	0
-	+	50	0
-	+	51	1
-	+	52	0
-	+	53	0
-	+	54	0
-	+	55	0
-	+	56	0
-	+	57	0
-	+	58	0
-	+	59	0
-	+	61	0
 	+	1	0
 
 > ~/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
@@ -2434,955 +3522,3 @@ $
 	+	14	0
 	+	16	0
 	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/2-strlen.c
-	*	1658737615	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	17	0
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	18	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/100-atoi.c
-	*	1658737508	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	41	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	29	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	33	0
-	+	35	0
-	+	36	0
-	+	37	0
-	+	38	0
-	+	39	0
-	+	40	0
-	+	42	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/5-strstr.c
-	*	1658737310	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	252
-	+	1	1
-	+	1	36
-	+	1	39
-	+	1	63
-	+	1	82
-	+	1	100
-	+	1	131
-	+	1	150
-	+	1	175
-	+	1	212
-	+	1	213
-	+	1	234
-	+	1	253
-	+	1	289
-	+	1	290
-	+	1	319
-	+	1	252
-	+	1	251
-	+	1	288
-	+	1	0
-	+	1	1
-	+	24	0
-	+	2	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	25	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/4-strpbrk.c
-	*	1658736263	0
-	"	1	0
-	^	1	0
-	.	1	1
-	+	17	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	20	13
-	+	21	0
-	+	1	1
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/3-strspn.c
-	*	1658736057	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	21	0
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	15	0
-	+	15	14
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	27	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	27	0
-	+	28	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/2-strchr.c
-	*	1658735773	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	18	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	10	0
-	+	11	0
-	+	13	0
-	+	14	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	19	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/1-memcpy.c
-	*	1658735678	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	15	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	16	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/0-memset.c
-	*	1658735608	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	15	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	16	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/3-strcmp.c
-	*	1658735488	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	16	56
-	+	17	0
-	+	3	0
-	+	4	1
-	+	5	1
-	+	6	1
-	+	7	1
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/2-strncpy.c
-	*	1658735357	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	17	0
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	18	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/1-strncat.c
-	*	1658735265	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	24	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	25	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/0-strcat.c
-	*	1658735159	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	23	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	24	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/1-isdigit.c
-	*	1658735007	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	13	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	14	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/lib/0-isupper.c
-	*	1658734805	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	14	0
-	+	1	13
-	+	3	0
-	+	4	1
-	+	5	1
-	+	6	1
-	+	7	1
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x0A-argc_argv/0-whatsmyname.c
-	*	1658513226	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	13	0
-	+	12	0
-	+	13	0
-	+	11	0
-	+	12	0
-	+	11	0
-	+	10	0
-	+	8	0
-	+	9	0
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	1	0
-
-> ~/alx-low_level_programming/0x0A-argc_argv/4-add.c
-	*	1658513170	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	28	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	8	1
-	+	9	1
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	1
-	+	18	25
-	+	19	1
-	+	20	18
-	+	21	11
-	+	22	1
-	+	23	1
-	+	24	21
-	+	25	1
-	+	26	0
-	+	27	0
-	+	29	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x0A-argc_argv/3-mul.c
-	*	1658513135	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	23	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	1
-	+	7	1
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	11
-	+	16	1
-	+	17	4
-	+	18	1
-	+	19	55
-	+	20	31
-	+	21	1
-	+	22	11
-	+	23	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x0A-argc_argv/2-args.c
-	*	1658513096	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	19	0
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	20	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x0A-argc_argv/1-args.c
-	*	1658513048	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	18	15
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	8	1
-	+	7	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	19	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x0A-argc_argv/100-change.c
-	*	1658493321	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	41	0
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	18
-	+	18	11
-	+	19	1
-	+	20	22
-	+	21	1
-	+	22	14
-	+	23	1
-	+	24	4
-	+	24	5
-	+	26	23
-	+	27	1
-	+	28	24
-	+	29	1
-	+	30	37
-	+	31	52
-	+	32	17
-	+	33	1
-	+	34	22
-	+	35	6
-	+	36	1
-	+	37	1
-	+	38	1
-	+	39	1
-	+	40	11
-	+	41	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/create_static_lib.sh
-	*	1658484091	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	3	0
-	+	4	0
-	+	3	0
-	+	1	1
-	+	1	0
-
-> ~/alx-low_level_programming/0x09-static_libraries/main.h
-	*	1658477628	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	44
-	+	23	5
-	+	2	15
-	+	1	15
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	7	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	16	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	22	0
-	+	23	0
-	+	24	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/101-wildcmp.c
-	*	1658314426	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	18	11
-	+	1	13
-	+	3	0
-	+	4	2
-	+	5	1
-	+	6	1
-	+	7	1
-	+	9	0
-	+	10	0
-	+	10	51
-	+	11	11
-	+	12	31
-	+	13	11
-	+	14	15
-	+	15	33
-	+	16	15
-	+	17	52
-	+	18	11
-	+	1	0
-	+	15	32
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/main.h
-	*	1658314372	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	14	0
-	+	15	0
-	+	14	0
-	+	13	0
-	+	12	0
-	+	11	1
-	+	9	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	0
-	+	3	0
-	+	1	11
-	+	2	10
-	+	1	0
-	+	11	0
-	+	12	0
-	+	10	85
-	+	1	0
-	+	9	27
-	+	10	29
-	+	11	0
-	+	10	0
-	+	9	27
-	+	10	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/100-is_palindrome.c
-	*	1658313870	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	43	11
-	+	1	13
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	28	0
-	+	29	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	36	0
-	+	37	0
-	+	38	0
-	+	39	0
-	+	40	0
-	+	41	0
-	+	42	42
-	+	43	11
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/5-sqrt_recursion.c
-	*	1658313473	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	1
-	+	1	13
-	+	1	1
-	+	1	2
-	+	1	1
-	+	1	2
-	+	1	1
-	+	1	21
-	+	1	35
-	+	1	1
-	+	41	1
-	+	1	13
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	1
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	11
-	+	16	1
-	+	17	4
-	+	18	1
-	+	19	27
-	+	21	1
-	+	22	0
-	+	23	1
-	+	24	1
-	+	25	1
-	+	26	1
-	+	27	1
-	+	29	0
-	+	30	0
-	+	31	0
-	+	32	0
-	+	33	0
-	+	34	0
-	+	35	0
-	+	36	0
-	+	37	0
-	+	38	0
-	+	39	0
-	+	40	31
-	+	41	1
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/0-puts_recursion.c
-	*	1658311989	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	15	1
-	+	1	13
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	1
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	13
-	+	14	23
-	+	15	1
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/6-is_prime_number.c
-	*	1658311441	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	30	0
-	+	1	13
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	1
-	+	7	1
-	+	9	0
-	+	10	0
-	+	11	11
-	+	12	37
-	+	13	11
-	+	14	11
-	+	15	0
-	+	17	0
-	+	18	0
-	+	19	0
-	+	20	0
-	+	21	0
-	+	23	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	28	0
-	+	29	33
-	+	30	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/4-pow_recursion.c
-	*	1658308243	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	16	0
-	+	1	14
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	1
-	+	7	1
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/3-factorial.c
-	*	1658308033	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	15	0
-	+	1	13
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	16	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/2-strlen_recursion.c
-	*	1658307847	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	13	0
-	+	1	13
-	+	3	0
-	+	4	0
-	+	5	0
-	+	6	0
-	+	8	0
-	+	9	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	14	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x08-recursion/1-print_rev_recursion.c
-	*	1658307720	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	13	13
-	+	1	13
-	+	3	0
-	+	4	1
-	+	5	1
-	+	6	1
-	+	8	0
-	+	9	0
-	+	10	28
-	+	11	4
-	+	12	7
-	+	13	13
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/0-memset.c
-	*	1658138038	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	15	0
-	+	1	11
-	+	3	0
-	+	4	0
-	+	5	1
-	+	6	1
-	+	7	1
-	+	8	1
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	16	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/main.h
-	*	1658137620	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	1	20
-	+	13	12
-	+	14	0
-	+	13	0
-	+	12	0
-	+	11	0
-	+	10	0
-	+	9	0
-	+	6	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	0
-	+	3	0
-	+	4	0
-	+	2	10
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/main
-	*	1658137298	0
-	"	1	0
-	^	1	1
-	.	1	0
-	+	1	0
-
-> ~/alx-low_level_programming/0x07-pointers_arrays_strings/101-crackme_password
-	*	1658136905	0
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	5
